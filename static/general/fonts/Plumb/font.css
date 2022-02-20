@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: 'Plumb';
+    src: url('PLUMB-RE-webfont.eot');
+    src: url('{fad026bab57aec5c56795eeb5ba97b6a}/index.html') format('embedded-opentype'),
+         url('PLUMB-RE-webfont.woff2') format('woff2'),
+         url('PLUMB-RE-webfont.woff') format('woff'),
+         url('PLUMB-RE-webfont.ttf') format('truetype'),
+         url('PLUMB-RE-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Plumb';
+    src: url('PLUMB-BO-webfont.eot');
+    src: url('{d060345f45462ff16f1571028368c439}/index.html') format('embedded-opentype'),
+         url('PLUMB-BO-webfont.woff2') format('woff2'),
+         url('PLUMB-BO-webfont.woff') format('woff'),
+         url('PLUMB-BO-webfont.ttf') format('truetype'),
+         url('PLUMB-BO-webfont.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}

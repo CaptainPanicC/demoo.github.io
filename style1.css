@@ -1,0 +1,29 @@
+body
+    {
+    background-image:url('fon.jpg');
+   
+    }
+ #ll {
+	font: 28px/69px Quantico, sans-serif;
+    background: #96d100;
+    color: #000;
+    border: 1px solid #96d100;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    width: 344px;
+    text-align: center;
+    text-transform: uppercase;
+    position: relative;
+    z-index: 10;
+
+}
+div{
+	
+	background-color:#A7A49A; 
+	border:5px solid #4D4B42;
+	margin:10px 5px 15px 20px; 
+    font-size:25px;
+	opacity: 0.9;
+}
+
